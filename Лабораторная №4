@@ -1,6 +1,6 @@
 ﻿**Бросить кости**
 
-![](Aspose.Words.978815f3-ad14-4f7c-b555-cba5abd27cdf.001.png "roll")
+![](media/for_4_lab/roll.png)
 
 |**Операция**|**RollTheDice(player)**|
 | :- | :- |
@@ -29,7 +29,7 @@
 
 **Войти в игру**
 
-![](Aspose.Words.978815f3-ad14-4f7c-b555-cba5abd27cdf.002.png "enter")
+![](media/for_4_lab/enter.png)
 
 |**Операция**|**CreateGame()**|
 | :- | :- |
@@ -63,7 +63,7 @@
 
 **Получить кости от других игроков**
 
-![](Aspose.Words.978815f3-ad14-4f7c-b555-cba5abd27cdf.003.png "get")
+![](media/for_4_lab/get.png)
 
 |**Операция**|**AnalysisDices(dices)**|
 | :- | :- |
@@ -91,7 +91,7 @@
 
 **Сбросить кости**
 
-![](Aspose.Words.978815f3-ad14-4f7c-b555-cba5abd27cdf.004.png "reset")
+![](media/for_4_lab/reset.png)
 
 |**Операция**|**AnalysisDices(dices)**|
 | :- | :- |
@@ -125,7 +125,7 @@
 
 **Отдать кости другим игрокам**
 
-![](Aspose.Words.978815f3-ad14-4f7c-b555-cba5abd27cdf.005.png "give")
+![](media/for_4_lab/give.png)
 
 |**Операция**|**MinusDices(number)**|
 | :- | :- |
